@@ -18,6 +18,7 @@ http://localhost:8080/h2-console
 # herramientas
 
 java version 11
+insomnia
 
 dependencias de spring boot utilizadas
 
@@ -25,5 +26,3 @@ spring data jpa,
 spring web,
 lombok,
 h2 database
-
-pruebas de la API en insomnia
