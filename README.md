@@ -19,6 +19,7 @@ http://localhost:8080/h2-console
 
 java version 11
 insomnia
+ide
 
 dependencias de spring boot utilizadas
 
