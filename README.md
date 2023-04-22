@@ -1,6 +1,6 @@
 # biblioteca
 
-servicio rest inventario de una biblioteca
+servicio rest inventario de una biblioteca con spring boot
 
 endpoint persona
 http://localhost:8080/persona
