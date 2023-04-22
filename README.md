@@ -17,9 +17,11 @@ http://localhost:8080/h2-console
 
 # herramientas
 
+Initializr spring boot,
 java version 11,
-insomnia(herramienta para prueba de api),
-ide(entorno de desarrollo integrado)
+ide(entorno de desarrollo integrado),
+insomnia(herramienta para prueba de api)
+
 
 dependencias de spring boot utilizadas
 
