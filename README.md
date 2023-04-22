@@ -23,3 +23,5 @@ spring data jpa,
 spring web,
 lombok,
 h2 database
+
+pruebas de la API en insomnia
