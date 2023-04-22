@@ -15,7 +15,7 @@ java version 11
 
 dependencias de spring boot utilizadas
 
-spring data jpa
-spring web
-lombok
+spring data jpa,
+spring web,
+lombok,
 h2 database
