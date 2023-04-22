@@ -18,8 +18,8 @@ http://localhost:8080/h2-console
 # herramientas
 
 java version 11
-insomnia
-ide
+insomnia(herramienta para prueba de api)
+ide(entorno de desarrollo integrado)
 
 dependencias de spring boot utilizadas
 
