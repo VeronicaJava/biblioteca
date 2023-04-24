@@ -29,3 +29,7 @@ spring data jpa,
 spring web,
 lombok,
 h2 database
+
+#paso a paso para aplicar el CRUD y mostrar la información en la base de datos
+
+primero subimos el servidor en el IDE que estemos utilizando, luego nos vamos para insominia después de tener el json con la información requerida para poder hacer los procesos del CRUD y poder enviar la información a la base de datos y luego ingresamos al link de la base de datos indicado anteriormente y conectarnos para poder ver la información tanto de persona como de libro
